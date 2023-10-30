@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         //Να εκτελεί την συνάρτηση onCalculateClick
                 onCalculateClick();
     }
+    //eimai h aspa
         private void onCalculateClick() {
             EditText etNumber1 = findViewById(R.id.etNumber1);
             double number1;
