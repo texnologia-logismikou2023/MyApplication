@@ -10,7 +10,10 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+    public class New_Class
+    {
 
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,6 +59,8 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 tvResult.setText("Operation Not Selected");
             }
+
+
 
         }
     });}}
